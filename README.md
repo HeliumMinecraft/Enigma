@@ -1,6 +1,6 @@
 # Enigma
 
-A tool for deobfuscation of Java bytecode. Forked from <https://bitbucket.org/cuchaz/enigma>, copyright Jeff Martin.
+A tool for deobfuscation of Java bytecode. Forked from <https://github.com/FabricMC/Enigma>, copyright Jeff Martin.
 
 ## License
 
